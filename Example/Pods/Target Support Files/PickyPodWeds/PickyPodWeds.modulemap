@@ -1,0 +1,6 @@
+framework module PickyPodWeds {
+  umbrella header "PickyPodWeds-umbrella.h"
+
+  export *
+  module * { export * }
+}

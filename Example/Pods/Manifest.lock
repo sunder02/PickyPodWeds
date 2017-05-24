@@ -1,0 +1,16 @@
+PODS:
+  - PickyPodWeds (0.1.0)
+
+DEPENDENCIES:
+  - PickyPodWeds (from `../`)
+
+EXTERNAL SOURCES:
+  PickyPodWeds:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PickyPodWeds: 558a472129d12a536a0cd64f32d0df7cdeb89656
+
+PODFILE CHECKSUM: eea1d53ba3623b40133967a3cd48b4b86bb91a92
+
+COCOAPODS: 1.2.1

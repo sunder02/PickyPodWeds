@@ -1,0 +1,9 @@
+use_frameworks!
+
+target 'PickyPodWeds_Example' do
+  pod 'PickyPodWeds', :path => '../'
+
+  target 'PickyPodWeds_Tests' do
+    pod 'PickyPodWeds', :path => '../'
+  end
+end

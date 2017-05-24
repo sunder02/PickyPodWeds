@@ -1,0 +1,6 @@
+framework module Pods_PickyPodWeds_Example_PickyPodWeds_Tests {
+  umbrella header "Pods-PickyPodWeds_Example-PickyPodWeds_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
