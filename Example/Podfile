@@ -1,5 +1,7 @@
 use_frameworks!
 
+'echo "2.0" > .swift-version'
+
 target 'PickyPodWeds_Example' do
   pod 'PickyPodWeds', :path => '../'
 
